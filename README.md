@@ -1,4 +1,4 @@
-# Data science & engineering
+# Emma Louise Håkonsen
 
 **Technical skills: Python, Java, Docker, Power BI, ...**
 
