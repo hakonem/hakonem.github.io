@@ -21,8 +21,7 @@ The project will be presented at the [ACM KDD 2024 European Data Science Day](ht
 
 [^1]: enRichMyData is a project within the EU’s Horizon Europe research and innovation programme. For more information, see [enRichMyData](https://enrichmydata.eu/about-2/).
 
-[^2]: InnoGraph is a specific use case of enRichMyData. For more information, see [The InnoGraph artificial 
-intelligence taxonomy](https://www.ontotext.com/blog/the-innograph-artificial-intelligence-taxonomy/).
+[^2]: InnoGraph is a specific use case of enRichMyData. For more information, see [The InnoGraph artificial intelligence taxonomy](https://www.ontotext.com/blog/the-innograph-artificial-intelligence-taxonomy/).
 
 
 ### Is it possible to accurately classify a person as being diabetic, prediabetic or non-diabetic based upon survey responses?
