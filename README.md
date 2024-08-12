@@ -19,12 +19,10 @@ The project will be presented at the [ACM KDD 2024 European Data Science Day](ht
 
 <br>
 
-[^1]: enRichMyData is a project within the EU’s Horizon Europe research and innovation programme. For more information, see [enRichMyData](https://enrichmydata.eu/about-2/).
-
-[^2]: InnoGraph is a specific use case of enRichMyData. For more information, see [The InnoGraph artificial intelligence taxonomy](https://www.ontotext.com/blog/the-innograph-artificial-intelligence-taxonomy/).
-
-
 ### Is it possible to accurately classify a person as being diabetic, prediabetic or non-diabetic based upon survey responses?
 Final project for the subject DATA3800 Introduction to Data Science with Scripting as part of my studies at OsloMet. I devised the research question and attempted to answer it using an open-source dataset from Kaggle. Data was cleaned and analysed using **Python**, and a **clustering** algorithm (K-Modes) was used to try to discover distinct groups within the data. Although I was unable to definitively answer the question within the timeframe of the project, I reflected on the results obtained and suggested further avenues for exploration. View the project repository (containing dataset, report and PowerPoint presentation) on [GitHub](https://github.com/hakonem/DATA3800_project).
 
 <br>
+
+[^1]: enRichMyData is a project within the EU’s Horizon Europe research and innovation programme. For more information, see [enRichMyData](https://enrichmydata.eu/about-2/).
+[^2]: InnoGraph is a specific use case of enRichMyData. For more information, see [The InnoGraph artificial intelligence taxonomy](https://www.ontotext.com/blog/the-innograph-artificial-intelligence-taxonomy/).
