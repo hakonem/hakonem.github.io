@@ -28,7 +28,6 @@ Final project for the subject DATA3800 Introduction to Data Science with Scripti
 * Data Visualization Using Python, IBM _(August 2022)_  
 * Data Analysis Using Python, IBM _(July 2022)_
 
-<br>
-
+## References
 [^1]: enRichMyData is a project within the EU’s Horizon Europe research and innovation programme. For more information, see [enRichMyData](https://enrichmydata.eu/about-2/).
 [^2]: InnoGraph is a specific use case of enRichMyData. For more information, see [The InnoGraph artificial intelligence taxonomy](https://www.ontotext.com/blog/the-innograph-artificial-intelligence-taxonomy/).
