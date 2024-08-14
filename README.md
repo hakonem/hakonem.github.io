@@ -7,7 +7,9 @@ BSc Software Engineering, OsloMet _(August 2021 - June 2024)_
 
 ## Projects
 ### TabulAI – A Trend Analysis Tool for Artificial Intelligence (AI)
-Bachelor project conducted in collaboration with SINTEF, conceived as a proof of concept (POC) within the larger enRichMyData[^1] initiative, and specifically under the InnoGraph[^2] business case. The project's goal was to develop an interactive web application to analyse and visualize trends in AI research. Data was cleaned and preprocessed using **Python**, then  **vectorization** and **similarity search** techniques were used to tag academic articles with the most relevant AI topics from a pre-prepared taxonomy. Dynamic visualizations were created using **Streamlit**. TabulAI provides researchers, policymakers and investors with valuable insight into AI trends.  
+Bachelor project conducted in collaboration with SINTEF, conceived as a proof of concept (POC) within the larger enRichMyData[^1] initiative, and specifically under the InnoGraph[^2] business case. The project's goal was to develop an interactive web application to analyse and visualise trends in AI research. Data was cleaned and preprocessed using **Python**, then  **vectorisation** and **similarity search** techniques were used to tag academic articles with the most relevant AI topics from a pre-prepared taxonomy. Dynamic visualisations were created using **Streamlit**. TabulAI provides researchers, policymakers and investors with valuable insight into AI trends.  
+
+**_Project poster created for OsloMet IT Expo 2024_**
 
 <img src="/docs/assets/img/TabulAI-IT-Expo-Poster - 1.png" width=700>
 
@@ -17,12 +19,15 @@ Feedback from the project supervisor highlighted key aspects of the project's su
 
 The project will be presented at the [ACM KDD 2024 European Data Science Day](https://aile3.ijs.si/dunja/EU-Day-KDD2024/index.html) on 27 August in Barcelona.
 
-<br>
-
 ### Is it possible to accurately classify a person as being diabetic, prediabetic or non-diabetic based upon survey responses?
-Final project for the subject DATA3800 Introduction to Data Science with Scripting as part of my studies at OsloMet. I devised the research question and attempted to answer it using an open-source dataset from Kaggle. Data was cleaned and analysed using **Python**, and a **clustering** algorithm (K-Modes) was used to try to discover distinct groups within the data. Although I was unable to definitively answer the question within the timeframe of the project, I reflected on the results obtained and suggested further avenues for exploration. View the project repository (containing dataset, report and PowerPoint presentation) on [GitHub](https://github.com/hakonem/DATA3800_project).
+Final project for the subject DATA3800 Introduction to Data Science with Scripting as part of my studies at OsloMet. It is estimated that 80% of prediabetic adults in the US are undiagnosed; timely identification of this demographic is key to tackling the growing trend of diabetes, and I was interested in finding out if machine learning could classify individuals in a cost- and resource-effective manner. I attempted to answer the research question using an open-source dataset from Kaggle. Data was cleaned and analysed using **Python**, and the **K-Modes clustering** algorithm was used to try to discover distinct patterns within the data. Although I was unable to definitively answer the research question within the timeframe of the project, I reflected on the results obtained and suggested alternative methods and techniques for further exploration. View the project repository (containing dataset, report and PowerPoint presentation) on [GitHub](https://github.com/hakonem/DATA3800_project).
 
-<br>
+## Professional development
+* TensorFlow Developer Professional Certificate, Coursera _(November 2023)_  
+* Machine Learning Specialization, Coursera _(October 2023)_  
+* Data Visualization Using Python, IBM _(August 2022)_  
+* Data Analysis Using Python, IBM _(July 2022)_
+
 
 [^1]: enRichMyData is a project within the EU’s Horizon Europe research and innovation programme. For more information, see [enRichMyData](https://enrichmydata.eu/about-2/).
 [^2]: InnoGraph is a specific use case of enRichMyData. For more information, see [The InnoGraph artificial intelligence taxonomy](https://www.ontotext.com/blog/the-innograph-artificial-intelligence-taxonomy/).
