@@ -1,6 +1,6 @@
 # Data analysis & data science
 
-#### Technical skills: Python, SQL, Streamlit, Power BI, Figma, scikit-learn, TensorFlow, Keras
+#### Technical skills: Python, pandas, NumPy, SQL, Streamlit, Power BI, Figma, scikit-learn, TensorFlow, Keras
 
 ## Education
 BSc Software Engineering, OsloMet _(August 2021 - June 2024)_
