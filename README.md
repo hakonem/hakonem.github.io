@@ -7,13 +7,13 @@ BSc Software Engineering, OsloMet _(August 2021 - June 2024)_
 
 ## Projects
 ### TabulAI – A Trend Analysis Tool for Artificial Intelligence (AI)
-Bachelor project conducted in collaboration with SINTEF, conceived as a proof of concept (POC) within the larger enRichMyData[^1] initiative, and specifically under the InnoGraph[^2] business case. The project's goal was to develop an interactive web application to analyse and visualise trends in AI research. Data was cleaned and preprocessed using **Python**, then  **vectorisation** and **similarity search** techniques were used to tag academic articles with the most relevant topics from an existing AI topics taxonomy. The tagged data was stored in an **SQLite** database, and **SQL** queries fetched data based on user input from a **Streamlit** app to create dynamic visualisations. TabulAI provides researchers, policymakers and investors with valuable insight into AI trends.  
+Bachelor project conducted in collaboration with SINTEF, conceived as a proof of concept (POC) within the larger enRichMyData[^1] initiative, and specifically under the InnoGraph[^2] business case. The project's goal was to develop an interactive web application to analyse and visualise trends in AI research. Data was cleaned and preprocessed using **Python**, then  **vectorisation** and **similarity search** techniques were used to tag academic articles with the most relevant topics from an existing AI topics taxonomy. The tagged data was stored in an **SQLite** database, and **SQL** queries fetched data based on user input from a **Streamlit** app to create dynamic visualisations. TabulAI provides researchers, policymakers and investors with valuable insight into AI trends. View the source code on [GitHub](https://github.com/hakonem/bachelor_project).
 
 **_Project poster created for OsloMet IT Expo 2024_**
 
 <img src="/docs/assets/img/TabulAI-IT-Expo-Poster - 1.png" width=700>
 
-Feedback from the project supervisor highlighted key aspects of the project's success:
+Feedback from the project supervisor:
 
 > The project met the requirements, especially given its research and exploratory nature, with changing requirements during the project period. ... The project was essential to the InnoGraph business case in enRichMyData and served as the first concrete prototype to demonstrate the utility of the chosen technology stack and its adaptability to different data sources. The developed prototype will be used as a demonstrator in enRichMyData, to be reused and extended with new source datasets.
 
